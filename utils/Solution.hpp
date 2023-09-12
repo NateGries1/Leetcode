@@ -5,5 +5,6 @@ class Solution {
     int removeElement(std::vector<int>& nums, int val); // 27
     ListNode* removeElements(ListNode* head, int val); // 203
     std::vector<ListNode*> splitListToParts(ListNode* head, int k); //725
-    vector<vector<int>> groupThePeople(vector<int>& groupSizes);
+    vector<vector<int>> groupThePeople(vector<int>& groupSizes); // 1282
+    int minDeletions(string s); // 1647
 };
