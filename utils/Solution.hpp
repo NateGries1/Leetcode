@@ -10,5 +10,6 @@ public:
     vector<ListNode*> splitListToParts(ListNode* head, int k); //725
     vector<vector<int>> groupThePeople(vector<int>& groupSizes); // 1282
     vector<int> kWeakestRows(vector<vector<int>>& mat, int k); // 1337
+    int minCostConnectPoints(vector<vector<int>>& points); // 1584
     int minDeletions(string s); // 1647
 };
