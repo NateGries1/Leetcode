@@ -10,6 +10,7 @@
 #include <queue>
 #include <bitset>
 #include <algorithm>
+#include <math.h>
 
 struct ListNode {
     int val;
